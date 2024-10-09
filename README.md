@@ -31,7 +31,11 @@ Add all the AI resources to BOOST the Engineering manager Role
 - 
 #### Build sharable Rules documents  
 - with Notion (free)  
-#### Boost coding efficiency  
+#### Boost coding efficiency and Code Documentation 
+- https://www.cursor.com/pricing (Cursor is 20$/month)
+- https://github.com/pricing (Copilot is 4$/month per user in a Team)
+- https://docify.ai4code.io/ (Docify to implement doc strings )
+- https://topai.tools/s/ai-code-documentation (Pick 1 from the list ?)  
 #### Manage a personal TODO list  
 - https://zapier.com/blog/best-todo-list-apps/ (comparison of to do list tools)
 - I know : Microsoft To Do, and google tasks (integrated with agenda and simple)
