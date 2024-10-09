@@ -25,17 +25,28 @@ Add all the AI resources to BOOST the Engineering manager Role
 
 ### B- Execution  
 #### Build an Execution Plan  
-#### Follow Scrum and Sprints  
-#### Evaluate Costs and TCO  
+#### Follow Scrum and Sprints and Workload  
+#### Evaluate Dev and Cloud Costs and TCO  
+- Hugging Face example : https://huggingface.co/blog/dhuynh95/ai-tco-calculator
+- 
 #### Build sharable Rules documents  
+- with Notion (free)  
 #### Boost coding efficiency  
 #### Manage a personal TODO list  
+- https://zapier.com/blog/best-todo-list-apps/ (comparison of to do list tools)
+- I know : Microsoft To Do, and google tasks (integrated with agenda and simple)
+- https://www.notion.so/Wiki-personnel-1cd2213ad3664d4597994144d84001d5 (Use Notion free)  
 
 ### C - Talent   
 #### Make Them Grow (or let them Go)  
 - https://roadmap.sh/ai-data-scientist (personal development roadmap)
+- Tool to manage O2O ?
+- Tool to manage yearly objectives ?  
 #### Hire and Scale Team  
 - https://scribehow.com/workspace#dashboard (dashboard for documentation build, not for roadmap)
 - jobdesc build with TEKIDEX  
 - CV Scan with RAIZUUM  
 #### Networking tools  
+- Linkedin: Invite Engineering Managers  
+- Linkedin: join Engineering Manager Groups
+- Meetup: https://www.meetup.com/fr-FR/ (join meetups 1 time / month)
