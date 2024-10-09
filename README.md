@@ -1,7 +1,8 @@
 # the-engineering-manager-stack
 Add all the AI resources to BOOST the Engineering manager Role
 
-## The 3 domains: S.E.T.
+## The 3 Pillars: Strategy - Execution - Talent (S.E.T.)  
+
 ### A - Strategy  
 #### Build and Maintain a RoadMap  
 - https://roadmaphero.com/  (200€/month) - a collaboration Tool that not only manages roadmap but full sprint
@@ -49,8 +50,10 @@ Add all the AI resources to BOOST the Engineering manager Role
 - Tool to manage yearly objectives ?  
 #### Hire and Scale Team  
 - https://scribehow.com/workspace#dashboard (dashboard for documentation build, not for roadmap)
-- jobdesc build with TEKIDEX  
-- CV Scan with RAIZUUM  
+- jobdesc build with TEKIDEX (home made code)    
+- CV Scan with RAIZUUM (home made code)
+- https://welovedevs.com/fr/recruteurs/recruter-un-developpeur (Quizz tests with AI for tech evaluation)
+- https://training.safetyculture.com/blog/ai-quiz-generator/ (Solutions for free Quizz builder with AI)  
 #### Networking tools  
 - Linkedin: Invite Engineering Managers  
 - Linkedin: join Engineering Manager Groups
