@@ -30,15 +30,17 @@ Add all the AI resources to BOOST the Engineering manager Role
 #### Follow Scrum and Sprints and Workload  
 #### Evaluate Dev and Cloud Costs and TCO  
 - Hugging Face example : https://huggingface.co/blog/dhuynh95/ai-tco-calculator
-- 
+
 #### Build sharable Rules documents  
-- with Notion (free)  
+- with Notion (free)
+
 #### Boost coding efficiency and Code Documentation 
 - https://www.cursor.com/pricing (Cursor is 20$/month)
 - https://github.com/pricing (Copilot is 4$/month per user in a Team)
 - https://docify.ai4code.io/ (Docify to implement doc strings )
 - https://topai.tools/s/ai-code-documentation (Pick 1 from the list ?)
 - https://www.docuwriter.ai/ (49$/month for the team)
+
 #### Manage a personal TODO list  
 - https://zapier.com/blog/best-todo-list-apps/ (comparison of to do list tools)
 - I know : Microsoft To Do, and google tasks (integrated with agenda and simple)
@@ -47,18 +49,22 @@ Add all the AI resources to BOOST the Engineering manager Role
 ### C - Talent  
 #### Organize a team  
 - resource TheProductCrew : https://theproductcrew.notion.site/Orgas-Tech-Le-guide-pour-structurer-son-quipe-de-devs-112094c7985780418cd1e9f3a3e6297f  
-- resource DataGen  
+- resource DataGen - see talents organisation for scale ups
+- à lire : *"An Elegant Puzzle: Systems of Engineering Management"*
+- s'abonner : https://locallyoptimistic.com/  
 
 #### Make Them Grow (or let them Go)  
 - https://roadmap.sh/ai-data-scientist (personal development roadmap)
 - Tool to manage O2O ?
-- Tool to manage yearly objectives ?  
+- Tool to manage yearly objectives ?
+  
 #### Hire and Scale Team  
 - https://scribehow.com/workspace#dashboard (dashboard for documentation build, not for roadmap)
 - jobdesc build with TEKIDEX (home made code)    
 - CV Scan with RAIZUUM (home made code)
 - https://welovedevs.com/fr/recruteurs/recruter-un-developpeur (Quizz tests with AI for tech evaluation)
-- https://training.safetyculture.com/blog/ai-quiz-generator/ (Solutions for free Quizz builder with AI)  
+- https://training.safetyculture.com/blog/ai-quiz-generator/ (Solutions for free Quizz builder with AI)
+  
 #### Networking tools  
 - Linkedin: Invite Engineering Managers  
 - Linkedin: join Engineering Manager Groups
