@@ -43,7 +43,11 @@ Add all the AI resources to BOOST the Engineering manager Role
 - I know : Microsoft To Do, and google tasks (integrated with agenda and simple)
 - https://www.notion.so/Wiki-personnel-1cd2213ad3664d4597994144d84001d5 (Use Notion free)  
 
-### C - Talent   
+### C - Talent  
+#### Organize a team  
+- resource TheProductCrew : https://theproductcrew.notion.site/Orgas-Tech-Le-guide-pour-structurer-son-quipe-de-devs-112094c7985780418cd1e9f3a3e6297f  
+- resource DataGen  
+
 #### Make Them Grow (or let them Go)  
 - https://roadmap.sh/ai-data-scientist (personal development roadmap)
 - Tool to manage O2O ?
