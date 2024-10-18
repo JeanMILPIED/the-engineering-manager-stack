@@ -26,17 +26,20 @@ Add all the AI resources to BOOST the Engineering manager Role
 
 ### B- Execution  
 #### Build an Execution Plan  
-- use Github Issues and Roadmap
+- use Github Issues and Roadmap ✅
 
 #### Build Features Documentation and User story  
-- use chatGPT Templates in Markdown: for Generic, FrontEnd, BackEnd, bug
+- use chatGPT Templates in Markdown: for Generic, FrontEnd, BackEnd, bug ✅
 
 #### Follow Scrum and Sprints and Workload  
+- use github roadmap tool
+
 #### Evaluate Dev and Cloud Costs and TCO  
 - Hugging Face example : https://huggingface.co/blog/dhuynh95/ai-tco-calculator
 
 #### Build sharable Rules documents  
 - with Notion (free)
+- the BUG decision tool: 
 
 #### Boost coding efficiency and Code Documentation 
 - https://www.cursor.com/pricing (Cursor is 20$/month)
@@ -47,7 +50,7 @@ Add all the AI resources to BOOST the Engineering manager Role
 
 #### Manage a personal TODO list  
 - https://zapier.com/blog/best-todo-list-apps/ (comparison of to do list tools)
-- I know : Microsoft To Do, and google tasks (integrated with agenda and simple)
+- I know : Microsoft To Do, and Google tasks (integrated with agenda and simple)
 - https://www.notion.so/Wiki-personnel-1cd2213ad3664d4597994144d84001d5 (Use Notion free)  
 
 ### C - Talent  
