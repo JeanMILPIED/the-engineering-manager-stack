@@ -19,7 +19,9 @@ Add all the AI resources to BOOST the Engineering manager Role
 ##### Patents  
 - https://competely.ai/info/customers/startups (competition dashboard search)
 - https://www.greyb.com/blog/ai-based-patent-databases/ (Review of tools - there are a lot and looks expensive all)
-- look for google patents alerts automation
+- look for google patents alerts automation and Espace Net , and EPO alerts (https://worldwide.espacenet.com/)  
+- Example for request : tool AND position AND determination AND software AND image AND capturing AND device AND calibration AND robotics
+- last patent : https://worldwide.espacenet.com/patent/search/family/085122608/publication/FR3140979A1?q=Inbolt
 ##### Newsletters
 - https://medium.com/@frankmeeuwsen/8-places-to-discover-fresh-newsletters-49102e02cf0d
 - https://substack.com/browse/staff-picks  
