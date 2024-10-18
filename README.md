@@ -26,6 +26,7 @@ Add all the AI resources to BOOST the Engineering manager Role
 
 ### B- Execution  
 #### Build an Execution Plan  
+#### Build Features Documentation and User story  
 #### Follow Scrum and Sprints and Workload  
 #### Evaluate Dev and Cloud Costs and TCO  
 - Hugging Face example : https://huggingface.co/blog/dhuynh95/ai-tco-calculator
