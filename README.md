@@ -31,7 +31,8 @@ Add all the AI resources to BOOST the Engineering manager Role
 - use Github Issues and Roadmap ✅
 
 #### Build Features Documentation and User story  
-- use chatGPT Templates in Markdown: for Generic, FrontEnd, BackEnd, bug ✅
+- use chatGPT Templates in Markdown: for Generic, FrontEnd, BackEnd, bug ✅  
+- make training on JIRA to proper use the tool
 
 #### Follow Scrum and Sprints and Workload  
 - use github roadmap tool
