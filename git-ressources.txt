@@ -1,0 +1,13 @@
+git branch <branch_name>
+git checkout <branch_name>
+git status
+git add <name_of_the_file_changed>
+git commit -m <"your_message_here">
+git push -u origin <branch_name>
+git checkout <main_branch_name>
+git merge <branch_name>
+git push -u origin <main_branch_name>
+git status
+ 
+
+
