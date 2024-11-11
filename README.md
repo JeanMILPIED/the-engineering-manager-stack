@@ -28,14 +28,16 @@ Add all the AI resources to BOOST the Engineering manager Role
 
 ### B- Execution  
 #### Build an Execution Plan  
-- use Github Issues and Roadmap ✅
+- use Github Issues and Roadmap ✅  
+- build a 3 months Execution Plan in JIRA (see roadmap existing)  
 
 #### Build Features Documentation and User story  
 - use chatGPT Templates in Markdown: for Generic, FrontEnd, BackEnd, bug ✅  
 - make training on JIRA to proper use the tool
 
 #### Follow Scrum and Sprints and Workload  
-- use github roadmap tool
+- use github roadmap tool  
+- what are the best sprint following tools ?
 
 #### Evaluate Dev and Cloud Costs and TCO  
 - Hugging Face example : https://huggingface.co/blog/dhuynh95/ai-tco-calculator
