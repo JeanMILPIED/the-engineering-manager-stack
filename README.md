@@ -37,14 +37,16 @@ Add all the AI resources to BOOST the Engineering manager Role
 
 #### Follow Scrum and Sprints and Workload  
 - use github roadmap tool  
-- what are the best sprint following tools ?
+- what are the best sprint following tools ?  
+- do custom dashboards in JIRA and communicate them
+- do custom automatisation in JIRA
 
 #### Evaluate Dev and Cloud Costs and TCO  
 - Hugging Face example : https://huggingface.co/blog/dhuynh95/ai-tco-calculator
 
 #### Build sharable Rules documents  
 - with Notion (free)
-- the BUG decision tool: 
+- the BUG decision tool: 1 page notion   
 
 #### Boost coding efficiency and Code Documentation 
 - https://www.cursor.com/pricing (Cursor is 20$/month)
@@ -57,6 +59,7 @@ Add all the AI resources to BOOST the Engineering manager Role
 - https://zapier.com/blog/best-todo-list-apps/ (comparison of to do list tools)
 - I know : Microsoft To Do, and Google tasks (integrated with agenda and simple)
 - https://www.notion.so/Wiki-personnel-1cd2213ad3664d4597994144d84001d5 (Use Notion free)  
+- slack todo list is good  
 
 ### C - Talent  
 #### Organize a team  
